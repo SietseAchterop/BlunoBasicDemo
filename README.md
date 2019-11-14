@@ -6,7 +6,7 @@ BlunoBasicDemo
 
 _Description: This is a basic Demo for Bluno including all the code and executable on Android,IOS and Android.You can easily develop your own with this Demo._
 
-With the "updated for android 20 pull requist from jerameel added. Thanks jerameel!
+With the "updated for android 26" pull requist from jerameel added. Thanks jerameel!
 
 ## BLE Details
 
